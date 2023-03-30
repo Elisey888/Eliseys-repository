@@ -1,0 +1,4 @@
+﻿  workWithArray.cpp
+C:\Users\User\source\repos\workWithArray\workWithArray\workWithArray.cpp(287,23): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\workWithArray\workWithArray\workWithArray.cpp(309,23): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  workWithArray.vcxproj -> C:\Users\User\source\repos\workWithArray\Debug\workWithArray.exe
