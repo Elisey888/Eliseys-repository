@@ -1,0 +1,4 @@
+﻿  lab2(2 sem).cpp
+C:\Users\User\source\repos\lab2(2 sem)\lab2(2 sem)\lab2(2 sem).cpp(16,9): warning C4101: option: неиспользованная локальная переменная
+C:\Users\User\source\repos\lab2(2 sem)\lab2(2 sem)\lab2(2 sem).cpp(117,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab2(2 sem).vcxproj -> C:\Users\User\source\repos\lab2(2 sem)\Debug\lab2(2 sem).exe
