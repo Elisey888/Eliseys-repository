@@ -1,0 +1,5 @@
+﻿  workWithArray(gen2).cpp
+C:\Users\User\source\repos\workWithArray(gen2)\workWithArray(gen2)\workWithArray(gen2).cpp(139,6): warning C4101: Exit: неиспользованная локальная переменная
+C:\Users\User\source\repos\workWithArray(gen2)\workWithArray(gen2)\workWithArray(gen2).cpp(178,23): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\workWithArray(gen2)\workWithArray(gen2)\workWithArray(gen2).cpp(200,23): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  workWithArray(gen2).vcxproj -> C:\Users\User\source\repos\workWithArray(gen2)\Debug\workWithArray(gen2).exe
